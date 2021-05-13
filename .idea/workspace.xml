@@ -1,0 +1,1075 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="main:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="63fd11dd-c731-4e5e-9a54-86fc571af58d" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/main_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/main_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/diagramly/Public.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/diagramly/axios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/diagramly/jQuery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/diagramly/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/diagramly/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/diagramly/Dialogs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/diagramly/Dialogs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/diagramly/EditorUi.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/diagramly/EditorUi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/diagramly/GraphViewer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/diagramly/GraphViewer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/diagramly/Init.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/diagramly/Init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/diagramly/Menus.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/diagramly/Menus.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/diagramly/sidebar/Sidebar-WebIcons.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/diagramly/sidebar/Sidebar-WebIcons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/grapheditor/Dialogs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/grapheditor/Dialogs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/grapheditor/Editor.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/grapheditor/Editor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/grapheditor/EditorUi.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/grapheditor/EditorUi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/dia_zh.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/dia_zh.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/shapes/mxDFD.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/shapes/mxDFD.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>database</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/diagramly/EditorUi.js" />
+      </list>
+    </option>
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="main/invalid/Google App Engine" />
+    </ignored-facets>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\maven\repository" />
+        <option name="mavenHome" value="E:/maven/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="E:\maven\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="280" />
+    <option name="y" value="79" />
+    <option name="width" value="988" />
+    <option name="height" value="770" />
+  </component>
+  <component name="ProjectId" id="1qmIpas2Qj8Ofx57EOiBs9gu57s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="drawio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="drawio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="drawio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mxgraph" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomact" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.64" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="main:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_drawio_3" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="6185" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="main:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63fd11dd-c731-4e5e-9a54-86fc571af58d" name="默认更改列表" comment="" />
+      <created>1616493541369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616493541369</updated>
+      <workItem from="1616493545338" duration="1294000" />
+      <workItem from="1616494888835" duration="4423000" />
+      <workItem from="1617001074278" duration="2049000" />
+      <workItem from="1617154477484" duration="597000" />
+      <workItem from="1617330615815" duration="2754000" />
+      <workItem from="1617677030742" duration="320000" />
+      <workItem from="1617678542987" duration="9929000" />
+      <workItem from="1617760878413" duration="4865000" />
+      <workItem from="1617843464128" duration="11015000" />
+      <workItem from="1617930358645" duration="15862000" />
+      <workItem from="1618188307973" duration="3424000" />
+      <workItem from="1618193755839" duration="2318000" />
+      <workItem from="1618539025172" duration="953000" />
+      <workItem from="1618814780901" duration="1014000" />
+      <workItem from="1619055209217" duration="772000" />
+      <workItem from="1620373833167" duration="596000" />
+      <workItem from="1620637648516" duration="592000" />
+      <workItem from="1620821480756" duration="1438000" />
+      <workItem from="1620868811297" duration="710000" />
+      <workItem from="1620870411268" duration="137000" />
+      <workItem from="1620870588518" duration="2059000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11437000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40271494" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="调色板" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25590128" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="设计器" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/main/webapp/js/diagramly/Dialogs.js</url>
+          <line>9397</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/diagramly/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <marker date="1616572419780" expanded="true" signature="15819:15852" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="50248:50264" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="142726:142742" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="157970:157988" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="192768:192793" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="192928:192968" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="193113:193132" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="193369:193380" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="193451:193466" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="197068:197085" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="197181:197200" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="197298:197309" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="197409:197424" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mxgraph/view/mxGraphView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1826">
+          <caret line="83" column="36" lean-forward="true" selection-start-line="83" selection-start-column="36" selection-end-line="83" selection-end-column="36" />
+          <folding>
+            <element signature="e#3206#3227#0" expanded="true" />
+            <element signature="e#28805#28814#0" expanded="true" />
+            <element signature="e#45051#45064#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/diagramly/EditorUi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1617342975384" expanded="true" signature="43398:43435" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="43570:43641" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="45272:45343" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="68594:68610" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="99909:99941" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="122968:122983" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="122990:123026" ph="data:" />
+            <marker date="1617342975384" expanded="true" signature="138803:139117" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="230683:230698" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="230752:230767" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="361764:361794" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="362484:362530" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="369621:369629" ph="/** Opens the application keystore. ...*/" />
+            <marker date="1617342975384" expanded="true" signature="378331:378924" ph="{...}" />
+            <marker date="1617342975384" expanded="true" signature="400456:400477" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="401497:401523" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="402147:402173" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="402648:402674" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="403643:403678" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/templates/basic/classes.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/templates/basic/cross.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/templates/basic/cross.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/plugins/update.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/diagramly/sidebar/Sidebar-ArchiMate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1616493353038" expanded="true" signature="3236:3273" ph="..." />
+            <marker date="1616493353038" expanded="true" signature="3286:3298" ph="..." />
+            <marker date="1616493353038" expanded="true" signature="3370:3382" ph="..." />
+            <marker date="1616493353038" expanded="true" signature="4186:4223" ph="..." />
+            <marker date="1616493353038" expanded="true" signature="4236:4248" ph="..." />
+            <marker date="1616493353038" expanded="true" signature="4318:4330" ph="..." />
+            <marker date="1616493353038" expanded="true" signature="4572:4609" ph="..." />
+            <marker date="1616493353038" expanded="true" signature="4622:4634" ph="..." />
+            <marker date="1616493353038" expanded="true" signature="4706:4718" ph="..." />
+            <marker date="1616493353038" expanded="true" signature="6353:6390" ph="..." />
+            <marker date="1616493353038" expanded="true" signature="6403:6415" ph="..." />
+            <marker date="1616493353038" expanded="true" signature="6487:6499" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/diagramly/sidebar/Sidebar-Advanced.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/diagramly/sidebar/Sidebar-Electrical.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1892">
+          <caret line="86" column="59" lean-forward="false" selection-start-line="86" selection-start-column="59" selection-end-line="86" selection-end-column="59" />
+          <folding>
+            <marker date="1616493353062" expanded="true" signature="48864:48887" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/diagramly/util/mxJsCanvas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/diagramly/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <marker date="1616572419780" expanded="true" signature="15819:15852" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="50248:50264" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="142726:142742" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="157970:157988" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="192768:192793" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="192928:192968" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="193113:193132" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="193369:193380" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="193451:193466" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="197068:197085" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="197181:197200" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="197298:197309" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="197409:197424" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/diagramly/EditorUi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1617342975384" expanded="true" signature="43398:43435" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="43570:43641" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="45272:45343" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="68594:68610" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="99909:99941" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="122968:122983" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="122990:123026" ph="data:" />
+            <marker date="1617342975384" expanded="true" signature="138803:139117" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="230683:230698" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="230752:230767" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="361764:361794" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="362484:362530" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="369621:369629" ph="/** Opens the application keystore. ...*/" />
+            <marker date="1617342975384" expanded="true" signature="378331:378924" ph="{...}" />
+            <marker date="1617342975384" expanded="true" signature="400456:400477" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="401497:401523" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="402147:402173" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="402648:402674" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="403643:403678" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/templates/basic/classes.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/templates/basic/cross.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/templates/basic/cross.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/plugins/update.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/diagramly/sidebar/Sidebar-Advanced.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/diagramly/sidebar/Sidebar-ArchiMate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1616493353038" expanded="true" signature="3236:3273" ph="..." />
+            <marker date="1616493353038" expanded="true" signature="3286:3298" ph="..." />
+            <marker date="1616493353038" expanded="true" signature="3370:3382" ph="..." />
+            <marker date="1616493353038" expanded="true" signature="4186:4223" ph="..." />
+            <marker date="1616493353038" expanded="true" signature="4236:4248" ph="..." />
+            <marker date="1616493353038" expanded="true" signature="4318:4330" ph="..." />
+            <marker date="1616493353038" expanded="true" signature="4572:4609" ph="..." />
+            <marker date="1616493353038" expanded="true" signature="4622:4634" ph="..." />
+            <marker date="1616493353038" expanded="true" signature="4706:4718" ph="..." />
+            <marker date="1616493353038" expanded="true" signature="6353:6390" ph="..." />
+            <marker date="1616493353038" expanded="true" signature="6403:6415" ph="..." />
+            <marker date="1616493353038" expanded="true" signature="6487:6499" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/diagramly/sidebar/Sidebar-Electrical.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1892">
+          <caret line="86" column="59" lean-forward="false" selection-start-line="86" selection-start-column="59" selection-end-line="86" selection-end-column="59" />
+          <folding>
+            <marker date="1616493353062" expanded="true" signature="48864:48887" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/diagramly/util/mxJsCanvas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/diagramly/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <marker date="1616572419780" expanded="true" signature="15819:15852" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="50248:50264" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="142726:142742" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="157970:157988" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="192768:192793" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="192928:192968" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="193113:193132" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="193369:193380" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="193451:193466" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="197068:197085" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="197181:197200" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="197298:197309" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="197409:197424" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/diagramly/EditorUi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305206">
+          <caret line="13873" column="32" lean-forward="false" selection-start-line="13873" selection-start-column="32" selection-end-line="13873" selection-end-column="32" />
+          <folding>
+            <marker date="1617342975384" expanded="true" signature="43398:43435" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="43570:43641" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="45272:45343" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="68594:68610" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="99909:99941" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="122968:122983" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="122990:123026" ph="data:" />
+            <marker date="1617342975384" expanded="true" signature="138803:139117" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="230683:230698" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="230752:230767" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="361764:361794" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="362484:362530" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="369621:369629" ph="/** Opens the application keystore. ...*/" />
+            <marker date="1617342975384" expanded="true" signature="378331:378924" ph="{...}" />
+            <marker date="1617342975384" expanded="true" signature="400456:400477" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="401497:401523" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="402147:402173" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="402648:402674" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="403643:403678" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/diagramly/EditorUi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305184">
+          <caret line="13872" column="32" lean-forward="true" selection-start-line="13872" selection-start-column="32" selection-end-line="13872" selection-end-column="32" />
+          <folding>
+            <marker date="1617342975384" expanded="true" signature="43398:43435" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="43570:43641" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="45272:45343" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="68594:68610" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="99909:99941" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="122968:122983" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="122990:123026" ph="data:" />
+            <marker date="1617342975384" expanded="true" signature="138803:139117" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="230683:230698" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="230752:230767" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="361764:361794" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="362484:362530" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="369621:369629" ph="/** Opens the application keystore. ...*/" />
+            <marker date="1617342975384" expanded="true" signature="378331:378924" ph="{...}" />
+            <marker date="1617342975384" expanded="true" signature="400456:400477" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="401497:401523" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="402147:402173" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="402648:402674" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="403643:403678" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="244" column="36" lean-forward="true" selection-start-line="244" selection-start-column="36" selection-end-line="244" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/stencils/aws4.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/stencils/flowchart.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-132">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/stencils/electrical/inductors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/shapes/mxArchiMate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2508">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/shapes/mxElectrical.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-39827">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/dia_bg.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/dia_bn.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/dia_ca.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/templates/basic/classes.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/templates/basic/classes.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/templates/basic/cross.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/templates/basic/cross.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/plugins/update.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/diagramly/sidebar/Sidebar-Advanced.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/diagramly/sidebar/Sidebar-ArchiMate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1616493353038" expanded="true" signature="3236:3273" ph="..." />
+            <marker date="1616493353038" expanded="true" signature="3286:3298" ph="..." />
+            <marker date="1616493353038" expanded="true" signature="3370:3382" ph="..." />
+            <marker date="1616493353038" expanded="true" signature="4186:4223" ph="..." />
+            <marker date="1616493353038" expanded="true" signature="4236:4248" ph="..." />
+            <marker date="1616493353038" expanded="true" signature="4318:4330" ph="..." />
+            <marker date="1616493353038" expanded="true" signature="4572:4609" ph="..." />
+            <marker date="1616493353038" expanded="true" signature="4622:4634" ph="..." />
+            <marker date="1616493353038" expanded="true" signature="4706:4718" ph="..." />
+            <marker date="1616493353038" expanded="true" signature="6353:6390" ph="..." />
+            <marker date="1616493353038" expanded="true" signature="6403:6415" ph="..." />
+            <marker date="1616493353038" expanded="true" signature="6487:6499" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/diagramly/sidebar/Sidebar-Electrical.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1892">
+          <caret line="86" column="59" lean-forward="false" selection-start-line="86" selection-start-column="59" selection-end-line="86" selection-end-column="59" />
+          <folding>
+            <marker date="1616493353062" expanded="true" signature="48864:48887" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/diagramly/util/mxJsCanvas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/diagramly/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <marker date="1616572419780" expanded="true" signature="15819:15852" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="50248:50264" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="142726:142742" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="157970:157988" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="192768:192793" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="192928:192968" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="193113:193132" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="193369:193380" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="193451:193466" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="197068:197085" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="197181:197200" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="197298:197309" ph="..." />
+            <marker date="1616572419780" expanded="true" signature="197409:197424" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/diagramly/EditorUi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="39" column="7" lean-forward="false" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
+          <folding>
+            <marker date="1617342975384" expanded="true" signature="43398:43435" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="43570:43641" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="45272:45343" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="68594:68610" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="99909:99941" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="122968:122983" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="122990:123026" ph="data:" />
+            <marker date="1617342975384" expanded="true" signature="138803:139117" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="230683:230698" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="230752:230767" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="361764:361794" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="362484:362530" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="369621:369629" ph="/** Opens the application keystore. ...*/" />
+            <marker date="1617342975384" expanded="true" signature="378331:378924" ph="{...}" />
+            <marker date="1617342975384" expanded="true" signature="400456:400477" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="401497:401523" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="402147:402173" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="402648:402674" ph="..." />
+            <marker date="1617342975384" expanded="true" signature="403643:403678" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mxgraph/view/mxCellState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mxgraph/model/mxCell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mxgraph/online/AbsAuthServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1210">
+          <caret line="83" column="32" lean-forward="false" selection-start-line="83" selection-start-column="32" selection-end-line="83" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mxgraph/online/mxBase64.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1584">
+          <caret line="72" column="13" lean-forward="false" selection-start-line="72" selection-start-column="13" selection-end-line="72" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mxgraph/view/mxGraphView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="83" column="36" lean-forward="false" selection-start-line="83" selection-start-column="36" selection-end-line="83" selection-end-column="36" />
+          <folding>
+            <element signature="e#3206#3227#0" expanded="true" />
+            <element signature="e#28805#28814#0" expanded="true" />
+            <element signature="e#45051#45064#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>main:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (main)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>main</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
